@@ -46,6 +46,3 @@ jobs:
         report_paths: '**/junit.xml'
         detailed_summary: true
         include_passed: true
-  
-      run:  |
-         pytest
